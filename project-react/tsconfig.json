@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "removeComments": true,
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
+    "charset": "utf8"
+  },
+  "include": ["./src/**/*"]
+}
